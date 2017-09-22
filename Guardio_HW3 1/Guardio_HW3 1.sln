@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9FEB1E89-C508-815A-7222-3DFCAD399B81}") = "Guardio_HW3 1", "Assembly-CSharp.csproj", "{30ECC197-F0A1-0EFB-DFED-B2D8F87A5FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30ECC197-F0A1-0EFB-DFED-B2D8F87A5FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ECC197-F0A1-0EFB-DFED-B2D8F87A5FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ECC197-F0A1-0EFB-DFED-B2D8F87A5FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ECC197-F0A1-0EFB-DFED-B2D8F87A5FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

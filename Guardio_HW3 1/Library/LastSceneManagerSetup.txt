@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Guardio_HW3/hw3_includes/Guardio_HW3.unity
+  isLoaded: 1
+  isActive: 1
